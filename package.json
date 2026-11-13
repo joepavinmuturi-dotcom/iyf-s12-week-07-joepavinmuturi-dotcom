@@ -1,0 +1,31 @@
+{
+  "name": "iyf-s12-week-07-joepavinmuturi-dotcom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "vitest run",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write **/*.{js,html,css}"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joepavinmuturi-dotcom/iyf-s12-week-07-joepavinmuturi-dotcom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/joepavinmuturi-dotcom/iyf-s12-week-07-joepavinmuturi-dotcom/issues"
+  },
+  "homepage": "https://github.com/joepavinmuturi-dotcom/iyf-s12-week-07-joepavinmuturi-dotcom#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.14.0",
+    "globals": "^17.14.0",
+    "prettier": "^3.10.1",
+    "vitest": "^5.1.0"
+  }
+}
